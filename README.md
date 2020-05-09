@@ -2,7 +2,7 @@
 
 練習用のサンプルファイル集です。
 
-[Pickles 2](http://pickles2.pxt.jp/) などでコンテンツを制作する練習などにご利用ください。
+[Pickles 2](https://pickles2.pxt.jp/) などでコンテンツを制作する練習などにご利用ください。
 
 ## ライセンス - License
 
